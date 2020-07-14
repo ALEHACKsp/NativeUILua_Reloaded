@@ -1,22 +1,19 @@
-![nativeuiluarldmedia](https://picture.dylan-malandain.me/UINativeLuaReloadedFini.png)
 
-# Discord : https://discord.gg/Jjb2c8Q (No support)
+Hello, this library is maintained to cope with problems it might encounter with FiveM updates, however, it will not have any more additions / improvements etc...
 
-# NativeUILua-Reloaded
+I invite you to turn to RageUI, a much more powerful library. It also solves many problems encountered with this library, 
 
-![OpenIssue](https://img.shields.io/github/issues/iTexZoz/NativeUILua_Reloaded.svg?style=flat)
-![LastReleases](https://img.shields.io/github/release/iTexZoz/NativeUILua_Reloaded.svg?label=Last%20releases&style=flat)
+Real-time display,
+Much better performance,
+No more memory "leaks",
 
-<h3>NativeUILua-Reloaded ported to C# by @manups4e.</h3>
+is so much more.
 
-New method for use NativeUILua-Reloaded cross-resource
-```lua
-client_scripts {
-    "@NativeUILua_Reloaded/src/NativeUIReloaded.lua",
-}
-```
+Feel free to join my discord if you have any questions.
 
-https://github.com/manups4e/NativeUI
+### https://github.com/iTexZoz/RageUI
+
+### https://discord.gg/Jjb2c8Q
 
 # License (custom license)
 
